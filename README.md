@@ -25,7 +25,6 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
 - <b>Windows 10</b>
-- <b>Windows Server 2016</b>
 
 
 
