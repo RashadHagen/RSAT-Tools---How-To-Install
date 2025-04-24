@@ -37,32 +37,36 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
 
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Windows Search Bar type: Optional Features</b></span>:  
   <br/>
-  <img src="https://imgur.com/oe2qKP5.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/6LmZL8p.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Manage optional features</b></span>:  
   <br/>
-  <img src="https://imgur.com/UvEKQRZ.png" height="80%" width="80%"/>
-  <img src="https://imgur.com/2aRMXAj.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/VdGOqxV.png" height="80%" width="80%"/>
+  <br/><br/><br/><br/>
+  <img src="https://imgur.com/dIVEuOG.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Add a feature</b></span>: 
   <br/><br/>
-  <img src="https://imgur.com/DzKElLY.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/SnWSndB.png" height="80%" width="80%"/>
+  <br/><br/><br/><br/>
+  <img src="https://imgur.com/sttddOv.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Search Box type: RSAT</b></span>:  
   <br/>
-  <img src="https://imgur.com/oe2qKP5.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/5FM7tAs.png" height="80%" width="80%"/>
+  <br/><br/><br/><br/>
+  <img src="https://imgur.com/eFM3ifb.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The RSAT Tools you want to install</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click/Check: The RSAT Tools you want to install</b></span>:  
   <br/>
-  <img src="https://imgur.com/UvEKQRZ.png" height="80%" width="80%"/>
-  <img src="https://imgur.com/2aRMXAj.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/CExLDtL.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Add</b></span>: 
   <br/><br/>
-  <img src="https://imgur.com/DzKElLY.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/26VVhIG.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
