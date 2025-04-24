@@ -35,18 +35,34 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
 
 <div style="text-align:center;">
 
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Windows Search Bar type: Optional Features</b></span>:  
   <br/>
   <img src="https://imgur.com/oe2qKP5.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Tools (top-right)  OR  Click: 2 Add roles and features (top-middle of screen)</b></span>:  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Manage optional features</b></span>:  
   <br/>
   <img src="https://imgur.com/UvEKQRZ.png" height="80%" width="80%"/>
   <img src="https://imgur.com/2aRMXAj.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Role-based or feature-based installation. Click: Next</b></span>: 
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Add a feature</b></span>: 
+  <br/><br/>
+  <img src="https://imgur.com/DzKElLY.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>In the Search Box type: RSAT</b></span>:  
+  <br/>
+  <img src="https://imgur.com/oe2qKP5.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: The RSAT Tools you want to install</b></span>:  
+  <br/>
+  <img src="https://imgur.com/UvEKQRZ.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/2aRMXAj.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Add</b></span>: 
   <br/><br/>
   <img src="https://imgur.com/DzKElLY.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
